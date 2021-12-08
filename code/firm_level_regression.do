@@ -4,7 +4,7 @@ set more off
 cd "/Users/effie/Desktop/term3/research_module"
 
 
-insheet using "/Users/effie/Desktop/term3/research_module/data/211206data.csv"
+insheet using "/Users/effie/Desktop/term3/research_module/data/clean/frim_data1208.csv"
  
 
 gen post_affected = year_post*bank_affected
